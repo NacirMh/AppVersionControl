@@ -191,6 +191,16 @@
   },
   {
     "ContainingType": "AppVersionControlApi.Controllers.ApplicationController",
+    "Method": "GetApplicationsAsync",
+    "RelativePath": "api/Application/LoggedInUser",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppVersionControlApi.Controllers.ApplicationController",
     "Method": "GetApplicationsByUserId",
     "RelativePath": "api/Application/user/{userId}",
     "HttpMethod": "GET",

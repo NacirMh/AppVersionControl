@@ -56,7 +56,6 @@ namespace AppVersionControlApi.Services
             var token = tokenHandler.CreateToken(TokenDescriptor);
 
             return tokenHandler.WriteToken(token);
-
         }
     }
 }

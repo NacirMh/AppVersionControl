@@ -17,7 +17,6 @@ namespace AppVersionControlApi.Data
 
         public DbSet<Application> Applications { get; set; }
         public DbSet<Version> Versions { get; set; }
-
         public DbSet<UserApplication> UserApplications{ get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)

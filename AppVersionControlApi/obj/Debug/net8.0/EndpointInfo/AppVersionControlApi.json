@@ -309,6 +309,18 @@
         }
       }
     },
+    "/api/Application/LoggedInUser": {
+      "get": {
+        "tags": [
+          "Application"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Application/{applicationId}/version/{versionId}": {
       "put": {
         "tags": [
@@ -494,11 +506,16 @@
     "schemas": {
       "CreateApplicationDTO": {
         "required": [
+          "description",
           "name"
         ],
         "type": "object",
         "properties": {
           "name": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "description": {
             "minLength": 1,
             "type": "string"
           }

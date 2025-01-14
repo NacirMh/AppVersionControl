@@ -11,6 +11,9 @@ namespace AppVersionControlApi.Entities
 
         public string Name { get; set; }
 
+        
+        public string Description { get; set; }
+
         public int? CurrentVersionId { get; set; }
         public virtual IEnumerable<Version> Versions { get; set; } = new List<Version>().AsEnumerable();
         public virtual IEnumerable<UserApplication> Users { get; set; } = new List<UserApplication>().AsEnumerable();

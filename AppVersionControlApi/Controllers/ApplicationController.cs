@@ -60,12 +60,22 @@ namespace AppVersionControlApi.Controllers
         }
 
         [HttpGet("user/{userId}")]
-        [Authorize]
+        [Authorize(Roles ="admin")]
         public IActionResult GetApplicationsByUserId(string userId)
         {
             var applications = _applicationService.GetApplicationsByUserId(userId).Select(x => x.ToApplicationDTO());
             return Ok(applications);
         }
+
+        [HttpGet("LoggedInUser")]
+        [Authorize]
+        public async Task<IActionResult> GetApplicationsAsync()
+        {
+            var user = await _userManager.GetUserAsync(User);
+            var applications = _applicationService.GetApplicationsByUserId(user.Id).Select(x => x.ToApplicationDTO());
+            return Ok(applications);
+        }
+
 
         [HttpPost]
         [Authorize(Roles = "admin")]
@@ -75,8 +85,9 @@ namespace AppVersionControlApi.Controllers
             {
                 return BadRequest(ModelState);
             }
+            var app = application.ToApplicationFromCreateApplicationDTO();
 
-            var createdApplication = _applicationService.CreateApplication(application.ToApplicationFromCreateApplicationDTO());
+            var createdApplication = _applicationService.CreateApplication(app);
             return CreatedAtAction(nameof(GetApplicationById), new { id = createdApplication.Id }, createdApplication.ToApplicationDTO());
         }
 

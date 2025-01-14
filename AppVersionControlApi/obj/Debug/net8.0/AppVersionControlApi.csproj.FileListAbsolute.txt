@@ -132,7 +132,6 @@ C:\Users\Nacir\Desktop\Nacir\c#\AppVersionControlApi\AppVersionControlApi\obj\De
 C:\Users\Nacir\Desktop\Nacir\c#\AppVersionControlApi\AppVersionControlApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AppVersionControlApi.props
 C:\Users\Nacir\Desktop\Nacir\c#\AppVersionControlApi\AppVersionControlApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AppVersionControlApi.props
 C:\Users\Nacir\Desktop\Nacir\c#\AppVersionControlApi\AppVersionControlApi\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\Nacir\Desktop\Nacir\c#\AppVersionControlApi\AppVersionControlApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Nacir\Desktop\Nacir\c#\AppVersionControlApi\AppVersionControlApi\obj\Debug\net8.0\AppVersi.F7300B4D.Up2Date
 C:\Users\Nacir\Desktop\Nacir\c#\AppVersionControlApi\AppVersionControlApi\obj\Debug\net8.0\AppVersionControlApi.dll
 C:\Users\Nacir\Desktop\Nacir\c#\AppVersionControlApi\AppVersionControlApi\obj\Debug\net8.0\refint\AppVersionControlApi.dll
@@ -146,3 +145,5 @@ C:\Users\Nacir\Desktop\Nacir\c#\AppVersionControlApi\AppVersionControlApi\bin\De
 C:\Users\Nacir\Desktop\Nacir\c#\AppVersionControlApi\AppVersionControlApi\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\Nacir\Desktop\Nacir\c#\AppVersionControlApi\AppVersionControlApi\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\Nacir\Desktop\Nacir\c#\AppVersionControlApi\AppVersionControlApi\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Nacir\Desktop\Nacir\c#\AppVersionControlApi\appversionControlApi\obj\Debug\net8.0\AppVersionControlApi.sourcelink.json
+C:\Users\Nacir\Desktop\Nacir\c#\AppVersionControlApi\AppVersionControlApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

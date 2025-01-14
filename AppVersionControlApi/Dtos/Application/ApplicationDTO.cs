@@ -10,6 +10,9 @@ namespace AppVersionControlApi.Dtos.Application
         public int Id { get; set; }
         [Required]
         public string Name { get; set; }
+
+        [Required]
+        public string Description { get; set; }
         public int? CurrentVersionId { get; set; }
         public IEnumerable<VersionDTO> Versions { get; set; } = new List<VersionDTO>();
 
