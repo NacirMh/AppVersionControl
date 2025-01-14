@@ -1,0 +1,766 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\repositories\\versionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\repositories\\versionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\repositories\\applicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\repositories\\applicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Migrations\\20250114201328_initDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AppVersionControlApi\\Migrations\\20250114201328_initDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\services\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\services\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\mappers\\accountmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\mappers\\accountmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\dtos\\account\\userdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\dtos\\account\\userdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\controllers\\versioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\controllers\\versioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\interfaces\\iapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\interfaces\\iapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\interfaces\\iapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\interfaces\\iapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\interfaces\\iversionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\interfaces\\iversionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\mappers\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\mappers\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\appversioncontrolapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\appversioncontrolapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\dtos\\account\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\dtos\\account\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\entities\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\entities\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\appversioncontrolapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\appversioncontrolapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\dtos\\account\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\dtos\\account\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\dtos\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\dtos\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\dtos\\account\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\dtos\\account\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Migrations\\20250114164700_initDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AppVersionControlApi\\Migrations\\20250114164700_initDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\services\\versionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\services\\versionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\dtos\\application\\createapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\dtos\\application\\createapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\mappers\\versionmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\mappers\\versionmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\dtos\\version\\versiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\dtos\\version\\versiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\dtos\\version\\createversiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\dtos\\version\\createversiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\entities\\version.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\entities\\version.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\entities\\userapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\entities\\userapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\dtos\\application\\applicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\dtos\\application\\applicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\dtos\\version\\updateversiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\dtos\\version\\updateversiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Migrations\\20250114150359_fixedreferenceloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AppVersionControlApi\\Migrations\\20250114150359_fixedreferenceloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nacir\\source\\repos\\KRM-Events-API\\KRM-Events-API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Migrations\\20250114140141_keyforUserApplicationTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AppVersionControlApi\\Migrations\\20250114140141_keyforUserApplicationTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\interfaces\\iversionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\interfaces\\iversionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\enums\\severity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\enums\\severity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ecb7191a-597b-41f5-9843-03a4cf275dde}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationController.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Controllers\\ApplicationController.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Controllers\\ApplicationController.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Controllers\\ApplicationController.cs*",
+              "RelativeToolTip": "AppVersionControlApi\\Controllers\\ApplicationController.cs*",
+              "ViewState": "AgIAACUAAAAAAAAAAAAlwCwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:38:44.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VersionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Repositories\\VersionRepository.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Repositories\\VersionRepository.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Repositories\\VersionRepository.cs",
+              "RelativeToolTip": "AppVersionControlApi\\Repositories\\VersionRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:57:48.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Services\\TokenService.cs",
+              "RelativeToolTip": "AppVersionControlApi\\Services\\TokenService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwBYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:16:49.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VersionController.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Controllers\\VersionController.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Controllers\\VersionController.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Controllers\\VersionController.cs",
+              "RelativeToolTip": "AppVersionControlApi\\Controllers\\VersionController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T15:40:47.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Program.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Program.cs",
+              "RelativeToolTip": "AppVersionControlApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAtwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T22:06:51.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationService.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Services\\ApplicationService.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Services\\ApplicationService.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Services\\ApplicationService.cs",
+              "RelativeToolTip": "AppVersionControlApi\\Services\\ApplicationService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAEwC0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:35:19.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Repositories\\ApplicationRepository.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Repositories\\ApplicationRepository.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Repositories\\ApplicationRepository.cs",
+              "RelativeToolTip": "AppVersionControlApi\\Repositories\\ApplicationRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA8wCsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:27:14.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250114201328_initDb.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Migrations\\20250114201328_initDb.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Migrations\\20250114201328_initDb.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Migrations\\20250114201328_initDb.cs",
+              "RelativeToolTip": "AppVersionControlApi\\Migrations\\20250114201328_initDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T20:13:28.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "AppVersionControlApi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T10:05:11.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "AppVersionControlApi\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAEcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T16:56:22.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Mappers\\AccountMapper.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Mappers\\AccountMapper.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Mappers\\AccountMapper.cs",
+              "RelativeToolTip": "AppVersionControlApi\\Mappers\\AccountMapper.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T17:02:12.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IApplicationService.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Interfaces\\IApplicationService.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Interfaces\\IApplicationService.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Interfaces\\IApplicationService.cs",
+              "RelativeToolTip": "AppVersionControlApi\\Interfaces\\IApplicationService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:33:04.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserDetailsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Dtos\\Account\\UserDetailsDTO.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Dtos\\Account\\UserDetailsDTO.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Dtos\\Account\\UserDetailsDTO.cs",
+              "RelativeToolTip": "AppVersionControlApi\\Dtos\\Account\\UserDetailsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T22:18:59.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IApplicationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Interfaces\\IApplicationRepository.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Interfaces\\IApplicationRepository.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Interfaces\\IApplicationRepository.cs",
+              "RelativeToolTip": "AppVersionControlApi\\Interfaces\\IApplicationRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:29:04.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Mappers\\ApplicationMapper.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Mappers\\ApplicationMapper.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Mappers\\ApplicationMapper.cs",
+              "RelativeToolTip": "AppVersionControlApi\\Mappers\\ApplicationMapper.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:14:14.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IVersionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Interfaces\\IVersionRepository.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Interfaces\\IVersionRepository.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Interfaces\\IVersionRepository.cs",
+              "RelativeToolTip": "AppVersionControlApi\\Interfaces\\IVersionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:58:10.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Entities\\AppUser.cs",
+              "RelativeToolTip": "AppVersionControlApi\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T09:55:11.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Entities\\Application.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Entities\\Application.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Entities\\Application.cs",
+              "RelativeToolTip": "AppVersionControlApi\\Entities\\Application.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T22:22:42.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Entities\\Admin.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Entities\\Admin.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Entities\\Admin.cs",
+              "RelativeToolTip": "AppVersionControlApi\\Entities\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T22:23:35.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppVersionControlApi.http",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\AppVersionControlApi.http",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\AppVersionControlApi.http",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\AppVersionControlApi.http",
+              "RelativeToolTip": "AppVersionControlApi\\AppVersionControlApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-14T17:31:09.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Dtos\\Account\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Dtos\\Account\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Dtos\\Account\\RegisterDTO.cs",
+              "RelativeToolTip": "AppVersionControlApi\\Dtos\\Account\\RegisterDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T17:04:32.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\appsettings.json",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\appsettings.json",
+              "RelativeToolTip": "AppVersionControlApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-14T10:49:59.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "VersionService.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Services\\VersionService.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Services\\VersionService.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Services\\VersionService.cs",
+              "RelativeToolTip": "AppVersionControlApi\\Services\\VersionService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:35:05.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Dtos\\Account\\AuthResponseDTO.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Dtos\\Account\\AuthResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Dtos\\Account\\AuthResponseDTO.cs",
+              "RelativeToolTip": "AppVersionControlApi\\Dtos\\Account\\AuthResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T22:18:19.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppVersionControlApi.csproj",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\AppVersionControlApi.csproj",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\AppVersionControlApi.csproj",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\AppVersionControlApi.csproj",
+              "RelativeToolTip": "AppVersionControlApi\\AppVersionControlApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-13T22:07:34.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Dtos\\Account\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Dtos\\Account\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Dtos\\Account\\LoginDTO.cs",
+              "RelativeToolTip": "AppVersionControlApi\\Dtos\\Account\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T22:18:32.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UpdateProfileDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Dtos\\Account\\UpdateProfileDTO.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Dtos\\Account\\UpdateProfileDTO.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Dtos\\Account\\UpdateProfileDTO.cs",
+              "RelativeToolTip": "AppVersionControlApi\\Dtos\\Account\\UpdateProfileDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T22:18:50.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250114164700_initDb.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Migrations\\20250114164700_initDb.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Migrations\\20250114164700_initDb.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Migrations\\20250114164700_initDb.cs",
+              "RelativeToolTip": "AppVersionControlApi\\Migrations\\20250114164700_initDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T16:47:00.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CreateApplicationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Dtos\\Application\\CreateApplicationDTO.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Dtos\\Application\\CreateApplicationDTO.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Dtos\\Application\\CreateApplicationDTO.cs",
+              "RelativeToolTip": "AppVersionControlApi\\Dtos\\Application\\CreateApplicationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:03:09.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Entities\\User.cs",
+              "RelativeToolTip": "AppVersionControlApi\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T22:26:58.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "VersionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Dtos\\Version\\VersionDTO.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Dtos\\Version\\VersionDTO.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Dtos\\Version\\VersionDTO.cs",
+              "RelativeToolTip": "AppVersionControlApi\\Dtos\\Version\\VersionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:04:49.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "VersionMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Mappers\\VersionMapper.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Mappers\\VersionMapper.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Mappers\\VersionMapper.cs",
+              "RelativeToolTip": "AppVersionControlApi\\Mappers\\VersionMapper.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBJwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:17:02.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CreateVersionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Dtos\\Version\\CreateVersionDTO.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Dtos\\Version\\CreateVersionDTO.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Dtos\\Version\\CreateVersionDTO.cs",
+              "RelativeToolTip": "AppVersionControlApi\\Dtos\\Version\\CreateVersionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:05:06.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Entities\\UserApplication.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Entities\\UserApplication.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Entities\\UserApplication.cs",
+              "RelativeToolTip": "AppVersionControlApi\\Entities\\UserApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T10:42:47.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Version.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Entities\\Version.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Entities\\Version.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Entities\\Version.cs",
+              "RelativeToolTip": "AppVersionControlApi\\Entities\\Version.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAABQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T22:22:53.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ApplicationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Dtos\\Application\\ApplicationDTO.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Dtos\\Application\\ApplicationDTO.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Dtos\\Application\\ApplicationDTO.cs",
+              "RelativeToolTip": "AppVersionControlApi\\Dtos\\Application\\ApplicationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:03:43.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UpdateVersionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Dtos\\Version\\UpdateVersionDTO.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Dtos\\Version\\UpdateVersionDTO.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Dtos\\Version\\UpdateVersionDTO.cs",
+              "RelativeToolTip": "AppVersionControlApi\\Dtos\\Version\\UpdateVersionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T15:50:34.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20250114150359_fixedreferenceloop.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Migrations\\20250114150359_fixedreferenceloop.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Migrations\\20250114150359_fixedreferenceloop.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Migrations\\20250114150359_fixedreferenceloop.cs",
+              "RelativeToolTip": "AppVersionControlApi\\Migrations\\20250114150359_fixedreferenceloop.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T15:03:59.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\source\\repos\\KRM-Events-API\\KRM-Events-API\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\KRM-Events-API\\KRM-Events-API\\Program.cs",
+              "ToolTip": "C:\\Users\\Nacir\\source\\repos\\KRM-Events-API\\KRM-Events-API\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\KRM-Events-API\\KRM-Events-API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T14:24:57.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20250114140141_keyforUserApplicationTable.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Migrations\\20250114140141_keyforUserApplicationTable.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Migrations\\20250114140141_keyforUserApplicationTable.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Migrations\\20250114140141_keyforUserApplicationTable.cs",
+              "RelativeToolTip": "AppVersionControlApi\\Migrations\\20250114140141_keyforUserApplicationTable.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T14:01:41.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Interfaces\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "AppVersionControlApi\\Interfaces\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:17:35.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IVersionService.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Interfaces\\IVersionService.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Interfaces\\IVersionService.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Interfaces\\IVersionService.cs",
+              "RelativeToolTip": "AppVersionControlApi\\Interfaces\\IVersionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:33:38.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Severity.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Enums\\Severity.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Enums\\Severity.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Enums\\Severity.cs",
+              "RelativeToolTip": "AppVersionControlApi\\Enums\\Severity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T10:36:18.217Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

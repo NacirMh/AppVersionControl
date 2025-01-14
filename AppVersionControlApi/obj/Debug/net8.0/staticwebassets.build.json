@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "PSP4L5UBIz/UYJUKIhz2WcZzDwyN2S2WPuxJAezjBkU=",
+  "Source": "AppVersionControlApi",
+  "BasePath": "_content/AppVersionControlApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
