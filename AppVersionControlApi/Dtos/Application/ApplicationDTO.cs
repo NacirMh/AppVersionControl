@@ -2,6 +2,7 @@
 using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
 using AppVersionControlApi.Dtos.Version;
+using AppVersionControlApi.Dtos.Account;
 
 namespace AppVersionControlApi.Dtos.Application
 {
@@ -15,6 +16,7 @@ namespace AppVersionControlApi.Dtos.Application
         public string Description { get; set; }
         public int? CurrentVersionId { get; set; }
         public IEnumerable<VersionDTO> Versions { get; set; } = new List<VersionDTO>();
+        public IEnumerable<UserDetailsDTO> Users { get; set; } = new List<UserDetailsDTO>();
 
     }
 }

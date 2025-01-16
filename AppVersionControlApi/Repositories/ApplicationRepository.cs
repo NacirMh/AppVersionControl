@@ -18,6 +18,7 @@ namespace AppVersionControlApi.Repositories
             return _dbContext.Applications;
         }
 
+        
         public IEnumerable<Application> GetApplicationsByUserId(string UserId)
         {
             var applications = _dbContext.Applications.Where(x => x.Users.Any(y => y.UserId == UserId));
@@ -39,7 +40,7 @@ namespace AppVersionControlApi.Repositories
 
         public bool AssignApplicationToUser(string userId, int applicationId)
         {
-            var app = _dbContext.Applications.FirstOrDefault(x => x.Id == applicationId);
+            var app = GetApplicationById(applicationId);
             var alreadyAssigned = _dbContext.UserApplications.FirstOrDefault(x => x.ApplicationId == applicationId && x.UserId == userId);
             if (app != null && alreadyAssigned == null)
             {
@@ -82,6 +83,31 @@ namespace AppVersionControlApi.Repositories
             }
             return false;
 
+        }
+
+        public Application? UpdateApplication(Application application)
+        {
+            var existingApp = GetApplicationById(application.Id);
+            if (existingApp != null)
+            {
+                existingApp.Name = application.Name;
+                existingApp.Description = application.Description;
+                _dbContext.SaveChanges();
+            }
+            return existingApp;
+        }
+
+        public bool RevokeApplicationFromUser(string userId, int applicationId)
+        {
+            var app = GetApplicationById(applicationId);
+            var alreadyAssigned = _dbContext.UserApplications.FirstOrDefault(x => x.ApplicationId == applicationId && x.UserId == userId);
+            if (app != null && alreadyAssigned != null)
+            {
+                _dbContext.UserApplications.Remove(alreadyAssigned);
+                _dbContext.SaveChanges();
+                return true;
+            }
+            return false;
         }
     }
 }

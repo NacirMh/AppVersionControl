@@ -2,6 +2,7 @@
 using AppVersionControlApi.Entities;
 using AppVersionControlApi.Interfaces;
 using AppVersionControlApi.Mappers;
+using KRM_Events_API.Mappers;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
@@ -55,8 +56,22 @@ namespace AppVersionControlApi.Controllers
             {
                 return NotFound("Application Not found or already assigned to this user");
             }
-            return Ok(user);
-
+            return Ok(user.ToUserDetailsFromUser());
+        }
+        [HttpPut("revokeFromUser")]
+        [Authorize(Roles = "admin")]
+        public async Task<IActionResult> RevokeApplicationFromUser(string userId, int applicationId)
+        {
+            var user = await _userManager.FindByIdAsync(userId);
+            if (user == null)
+            {
+                return NotFound("User Not Found");
+            }
+            if (!_applicationService.RevokeApplicationFromUser(userId, applicationId))
+            {
+                return NotFound("Application Not found");
+            }
+            return Ok(user.ToUserDetailsFromUser());
         }
 
         [HttpGet("user/{userId}")]
@@ -114,6 +129,19 @@ namespace AppVersionControlApi.Controllers
             }
             return NoContent();
         }
+
+        [HttpPut("update/{id}")]
+        [Authorize(Roles = "admin")]
+        public IActionResult UpdateApplication([FromBody] UpdateApplicationDTO dto,int id)
+        {
+            var result = _applicationService.UpdateApplication(dto.ToApplicationFromUpdateDTO(id));
+            if (result == null)
+            {
+                return NotFound();
+            }
+            return NoContent();
+        }
+
 
 
     }

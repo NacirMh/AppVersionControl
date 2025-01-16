@@ -8,12 +8,10 @@ namespace AppVersionControlApi.Services
     public class ApplicationService : IApplicationService
     {
         private readonly IApplicationRepository _applicationRepository;
-        private readonly IVersionRepository _versionRepository;
 
         public ApplicationService(IApplicationRepository applicationRepository , IVersionRepository versionRepository)
         {
            _applicationRepository = applicationRepository;
-           _versionRepository = versionRepository;
         }
         public Application CreateApplication(Application application)
         {
@@ -54,5 +52,21 @@ namespace AppVersionControlApi.Services
         {
            return _applicationRepository.UpdateApplicationVersion(applicationId, versionId);
         }
+
+        public Application? UpdateApplication(Application application)
+        {
+            return _applicationRepository.UpdateApplication(application);
+        }
+
+        public bool RevokeApplicationFromUser(string userId, int applicationId)
+        {
+            if (_applicationRepository.RevokeApplicationFromUser(userId, applicationId))
+            {
+                return true;
+            }
+            return false;
+        }
+
+        
     }
 }

@@ -11,6 +11,9 @@ namespace AppVersionControlApi.Interfaces
         public Application CreateApplication(Application application);
         public bool UpdateApplicationVersion(int applicationId, int versionId);
         public bool AssignApplicationToUser(string userId, int applicationId);
+        public bool RevokeApplicationFromUser(string userId, int applicationId);
+        public Application? UpdateApplication(Application application);
+
 
     }
 }

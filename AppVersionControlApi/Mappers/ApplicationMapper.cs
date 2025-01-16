@@ -1,6 +1,7 @@
 ﻿
 using AppVersionControlApi.Dtos.Application;
 using AppVersionControlApi.Entities;
+using KRM_Events_API.Mappers;
 
 namespace AppVersionControlApi.Mappers
 {
@@ -17,6 +18,15 @@ namespace AppVersionControlApi.Mappers
 
         }
        
+        public static Application ToApplicationFromUpdateDTO(this UpdateApplicationDTO dto , int id)
+        {
+            return new Application
+            {
+                Id = id,    
+                Name = dto.Name,
+                Description = dto.Description
+            };
+        }
 
         public static ApplicationDTO ToApplicationDTO(this Application app)
         {
@@ -24,9 +34,10 @@ namespace AppVersionControlApi.Mappers
             {
                 Id = app.Id,
                 Name = app.Name,
-                Description= app.Description,
+                Description = app.Description,
                 CurrentVersionId = app.CurrentVersionId,
                 Versions = app.Versions.Select(x => x.ToVersionDTO()),
+                Users = app.Users.Select(x => x.User.ToUserDetailsFromUser())
             };
 
 

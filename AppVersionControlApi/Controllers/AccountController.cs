@@ -71,13 +71,7 @@ namespace AppVersionControlApi.Controllers
 
                 if (roleResult.Succeeded)
                 {
-                    return Ok(new AuthResponseDTO
-                    {
-                        isSuccess = true,
-                        Message = "Account created successfully",
-                        Token = _tokenService.CreateToken(appUser).Result
-
-                    });
+                    return Ok(appUser.ToUserDetailsFromUser());
 
                 }
                 else

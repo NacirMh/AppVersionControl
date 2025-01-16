@@ -201,6 +201,48 @@
   },
   {
     "ContainingType": "AppVersionControlApi.Controllers.ApplicationController",
+    "Method": "RevokeApplicationFromUser",
+    "RelativePath": "api/Application/revokeFromUser",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "applicationId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppVersionControlApi.Controllers.ApplicationController",
+    "Method": "UpdateApplication",
+    "RelativePath": "api/Application/update/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "AppVersionControlApi.Dtos.Application.UpdateApplicationDTO",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppVersionControlApi.Controllers.ApplicationController",
     "Method": "GetApplicationsByUserId",
     "RelativePath": "api/Application/user/{userId}",
     "HttpMethod": "GET",

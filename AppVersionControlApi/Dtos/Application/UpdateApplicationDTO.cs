@@ -2,13 +2,12 @@
 
 namespace AppVersionControlApi.Dtos.Application
 {
-    public class CreateApplicationDTO
+    public class UpdateApplicationDTO
     {
         [Required]
         public string Name { get; set; }
 
         [Required]
-        public string Description { get; set; } 
-
+        public string Description { get; set; }
     }
 }
