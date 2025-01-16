@@ -32,7 +32,6 @@ namespace AppVersionControlApi.Controllers
 
         [HttpGet("{id}")]
         [Authorize(Roles = "admin")]
-
         public IActionResult GetApplicationById(int id)
         {
             var application = _applicationService.GetApplicationById(id);
@@ -42,6 +41,7 @@ namespace AppVersionControlApi.Controllers
             }
             return Ok(application.ToApplicationDTO());
         }
+
 
         [HttpPut("assignToUser")]
         [Authorize(Roles = "admin")]
@@ -58,6 +58,7 @@ namespace AppVersionControlApi.Controllers
             }
             return Ok(user.ToUserDetailsFromUser());
         }
+
         [HttpPut("revokeFromUser")]
         [Authorize(Roles = "admin")]
         public async Task<IActionResult> RevokeApplicationFromUser(string userId, int applicationId)

@@ -33,6 +33,22 @@
   },
   {
     "ContainingType": "AppVersionControlApi.Controllers.AccountController",
+    "Method": "ChangePassword",
+    "RelativePath": "api/Account/ChangePassword",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "AppVersionControlApi.Dtos.Account.ChangePasswordDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppVersionControlApi.Controllers.AccountController",
     "Method": "CreateUser",
     "RelativePath": "api/Account/CreateUser",
     "HttpMethod": "POST",
@@ -84,6 +100,22 @@
       {
         "Name": "loginDTO",
         "Type": "AppVersionControlApi.Dtos.Account.LoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppVersionControlApi.Controllers.AccountController",
+    "Method": "ChangePassword",
+    "RelativePath": "api/Account/ResetPassword",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "AppVersionControlApi.Dtos.Account.ResetPasswordDTO",
         "IsRequired": true
       }
     ],

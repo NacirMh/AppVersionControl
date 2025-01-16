@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\dtos\\account\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\dtos\\account\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\controllers\\versioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\controllers\\versioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\dtos\\account\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\dtos\\account\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\mappers\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,14 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\dtos\\application\\updateapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\dtos\\application\\updateapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\controllers\\versioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\controllers\\versioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|solutionrelative:appversioncontrolapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75C31D4B-CE14-4931-A780-909F0655FD8E}|AppVersionControlApi\\AppVersionControlApi.csproj|c:\\users\\nacir\\desktop\\nacir\\c#\\appversioncontrolapi\\appversioncontrolapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -189,7 +197,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -204,45 +212,42 @@
               "Name": "ST:0:0:{ecb7191a-597b-41f5-9843-03a4cf275dde}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "ChangePasswordDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Dtos\\Account\\ChangePasswordDTO.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Dtos\\Account\\ChangePasswordDTO.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Dtos\\Account\\ChangePasswordDTO.cs",
+              "RelativeToolTip": "AppVersionControlApi\\Dtos\\Account\\ChangePasswordDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T13:07:50.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ApplicationController.cs",
               "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Controllers\\ApplicationController.cs",
               "RelativeDocumentMoniker": "AppVersionControlApi\\Controllers\\ApplicationController.cs",
               "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Controllers\\ApplicationController.cs",
               "RelativeToolTip": "AppVersionControlApi\\Controllers\\ApplicationController.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAAAD0AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T12:38:44.002Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApplicationMapper.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Mappers\\ApplicationMapper.cs",
-              "RelativeDocumentMoniker": "AppVersionControlApi\\Mappers\\ApplicationMapper.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Mappers\\ApplicationMapper.cs",
-              "RelativeToolTip": "AppVersionControlApi\\Mappers\\ApplicationMapper.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T13:14:14.104Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CreateApplicationDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Dtos\\Application\\CreateApplicationDTO.cs",
-              "RelativeDocumentMoniker": "AppVersionControlApi\\Dtos\\Application\\CreateApplicationDTO.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Dtos\\Application\\CreateApplicationDTO.cs",
-              "RelativeToolTip": "AppVersionControlApi\\Dtos\\Application\\CreateApplicationDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T13:03:09.941Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "ApplicationDTO.cs",
               "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Dtos\\Application\\ApplicationDTO.cs",
               "RelativeDocumentMoniker": "AppVersionControlApi\\Dtos\\Application\\ApplicationDTO.cs",
@@ -254,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "IApplicationRepository.cs",
               "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Interfaces\\IApplicationRepository.cs",
               "RelativeDocumentMoniker": "AppVersionControlApi\\Interfaces\\IApplicationRepository.cs",
@@ -266,28 +271,83 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "AppVersionControlApi\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Controllers\\AccountController.cs",
               "RelativeToolTip": "AppVersionControlApi\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAM4AAAAAAAAAAAAAANwAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAAALgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T16:56:22.071Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Program.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Program.cs",
+              "RelativeToolTip": "AppVersionControlApi\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T22:06:51.439Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResetPasswordDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Dtos\\Account\\ResetPasswordDTO.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Dtos\\Account\\ResetPasswordDTO.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Dtos\\Account\\ResetPasswordDTO.cs",
+              "RelativeToolTip": "AppVersionControlApi\\Dtos\\Account\\ResetPasswordDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T13:24:48.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VersionController.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Controllers\\VersionController.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Controllers\\VersionController.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Controllers\\VersionController.cs",
+              "RelativeToolTip": "AppVersionControlApi\\Controllers\\VersionController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T15:40:47.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateApplicationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Dtos\\Application\\CreateApplicationDTO.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Dtos\\Application\\CreateApplicationDTO.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Dtos\\Application\\CreateApplicationDTO.cs",
+              "RelativeToolTip": "AppVersionControlApi\\Dtos\\Application\\CreateApplicationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:03:09.941Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "ApplicationMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Mappers\\ApplicationMapper.cs",
+              "RelativeDocumentMoniker": "AppVersionControlApi\\Mappers\\ApplicationMapper.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Mappers\\ApplicationMapper.cs",
+              "RelativeToolTip": "AppVersionControlApi\\Mappers\\ApplicationMapper.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:14:14.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "IApplicationService.cs",
               "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Interfaces\\IApplicationService.cs",
               "RelativeDocumentMoniker": "AppVersionControlApi\\Interfaces\\IApplicationService.cs",
@@ -299,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "ApplicationRepository.cs",
               "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Repositories\\ApplicationRepository.cs",
               "RelativeDocumentMoniker": "AppVersionControlApi\\Repositories\\ApplicationRepository.cs",
@@ -311,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "ApplicationService.cs",
               "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Services\\ApplicationService.cs",
               "RelativeDocumentMoniker": "AppVersionControlApi\\Services\\ApplicationService.cs",
@@ -323,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "VersionRepository.cs",
               "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Repositories\\VersionRepository.cs",
               "RelativeDocumentMoniker": "AppVersionControlApi\\Repositories\\VersionRepository.cs",
@@ -335,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "VersionMapper.cs",
               "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Mappers\\VersionMapper.cs",
               "RelativeDocumentMoniker": "AppVersionControlApi\\Mappers\\VersionMapper.cs",
@@ -347,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "UpdateApplicationDTO.cs",
               "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Dtos\\Application\\UpdateApplicationDTO.cs",
               "RelativeDocumentMoniker": "AppVersionControlApi\\Dtos\\Application\\UpdateApplicationDTO.cs",
@@ -359,19 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Program.cs",
-              "RelativeDocumentMoniker": "AppVersionControlApi\\Program.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Program.cs",
-              "RelativeToolTip": "AppVersionControlApi\\Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAFcAAAB3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T22:06:51.439Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "AppVersionControlApi\\Data\\AppDbContext.cs",
@@ -383,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "TokenService.cs",
               "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Services\\TokenService.cs",
               "RelativeDocumentMoniker": "AppVersionControlApi\\Services\\TokenService.cs",
@@ -395,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "VersionService.cs",
               "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Services\\VersionService.cs",
               "RelativeDocumentMoniker": "AppVersionControlApi\\Services\\VersionService.cs",
@@ -407,7 +455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\appsettings.json",
               "RelativeDocumentMoniker": "AppVersionControlApi\\appsettings.json",
@@ -419,19 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "VersionController.cs",
-              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Controllers\\VersionController.cs",
-              "RelativeDocumentMoniker": "AppVersionControlApi\\Controllers\\VersionController.cs",
-              "ToolTip": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Controllers\\VersionController.cs",
-              "RelativeToolTip": "AppVersionControlApi\\Controllers\\VersionController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T15:40:47.15Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Application.cs",
               "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Entities\\Application.cs",
               "RelativeDocumentMoniker": "AppVersionControlApi\\Entities\\Application.cs",
@@ -443,7 +479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "AccountMapper.cs",
               "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Mappers\\AccountMapper.cs",
               "RelativeDocumentMoniker": "AppVersionControlApi\\Mappers\\AccountMapper.cs",
@@ -455,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "20250114201328_initDb.cs",
               "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Migrations\\20250114201328_initDb.cs",
               "RelativeDocumentMoniker": "AppVersionControlApi\\Migrations\\20250114201328_initDb.cs",
@@ -467,7 +503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "20250114215829_addedDescriptionToApplication.cs",
               "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Migrations\\20250114215829_addedDescriptionToApplication.cs",
               "RelativeDocumentMoniker": "AppVersionControlApi\\Migrations\\20250114215829_addedDescriptionToApplication.cs",
@@ -479,7 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "Severity.cs",
               "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Enums\\Severity.cs",
               "RelativeDocumentMoniker": "AppVersionControlApi\\Enums\\Severity.cs",
@@ -491,7 +527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "AppVersionControlApi.csproj",
               "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\AppVersionControlApi.csproj",
               "RelativeDocumentMoniker": "AppVersionControlApi\\AppVersionControlApi.csproj",
@@ -503,7 +539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "UserDetailsDTO.cs",
               "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Dtos\\Account\\UserDetailsDTO.cs",
               "RelativeDocumentMoniker": "AppVersionControlApi\\Dtos\\Account\\UserDetailsDTO.cs",
@@ -515,7 +551,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "IVersionRepository.cs",
               "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Interfaces\\IVersionRepository.cs",
               "RelativeDocumentMoniker": "AppVersionControlApi\\Interfaces\\IVersionRepository.cs",
@@ -527,7 +563,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Entities\\AppUser.cs",
               "RelativeDocumentMoniker": "AppVersionControlApi\\Entities\\AppUser.cs",
@@ -539,7 +575,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "Admin.cs",
               "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Entities\\Admin.cs",
               "RelativeDocumentMoniker": "AppVersionControlApi\\Entities\\Admin.cs",
@@ -551,7 +587,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "AppVersionControlApi.http",
               "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\AppVersionControlApi.http",
               "RelativeDocumentMoniker": "AppVersionControlApi\\AppVersionControlApi.http",
@@ -563,7 +599,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "RegisterDTO.cs",
               "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Dtos\\Account\\RegisterDTO.cs",
               "RelativeDocumentMoniker": "AppVersionControlApi\\Dtos\\Account\\RegisterDTO.cs",
@@ -575,7 +611,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "AuthResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Dtos\\Account\\AuthResponseDTO.cs",
               "RelativeDocumentMoniker": "AppVersionControlApi\\Dtos\\Account\\AuthResponseDTO.cs",
@@ -587,7 +623,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "LoginDTO.cs",
               "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Dtos\\Account\\LoginDTO.cs",
               "RelativeDocumentMoniker": "AppVersionControlApi\\Dtos\\Account\\LoginDTO.cs",
@@ -599,7 +635,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "UpdateProfileDTO.cs",
               "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Dtos\\Account\\UpdateProfileDTO.cs",
               "RelativeDocumentMoniker": "AppVersionControlApi\\Dtos\\Account\\UpdateProfileDTO.cs",
@@ -611,7 +647,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "20250114164700_initDb.cs",
               "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Migrations\\20250114164700_initDb.cs",
               "RelativeDocumentMoniker": "AppVersionControlApi\\Migrations\\20250114164700_initDb.cs",
@@ -623,7 +659,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Entities\\User.cs",
               "RelativeDocumentMoniker": "AppVersionControlApi\\Entities\\User.cs",
@@ -635,7 +671,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "VersionDTO.cs",
               "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Dtos\\Version\\VersionDTO.cs",
               "RelativeDocumentMoniker": "AppVersionControlApi\\Dtos\\Version\\VersionDTO.cs",
@@ -647,7 +683,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "CreateVersionDTO.cs",
               "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Dtos\\Version\\CreateVersionDTO.cs",
               "RelativeDocumentMoniker": "AppVersionControlApi\\Dtos\\Version\\CreateVersionDTO.cs",
@@ -659,7 +695,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "UserApplication.cs",
               "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Entities\\UserApplication.cs",
               "RelativeDocumentMoniker": "AppVersionControlApi\\Entities\\UserApplication.cs",
@@ -671,7 +707,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "Version.cs",
               "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Entities\\Version.cs",
               "RelativeDocumentMoniker": "AppVersionControlApi\\Entities\\Version.cs",
@@ -683,7 +719,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "UpdateVersionDTO.cs",
               "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Dtos\\Version\\UpdateVersionDTO.cs",
               "RelativeDocumentMoniker": "AppVersionControlApi\\Dtos\\Version\\UpdateVersionDTO.cs",
@@ -695,7 +731,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "20250114150359_fixedreferenceloop.cs",
               "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Migrations\\20250114150359_fixedreferenceloop.cs",
               "RelativeDocumentMoniker": "AppVersionControlApi\\Migrations\\20250114150359_fixedreferenceloop.cs",
@@ -706,7 +742,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Nacir\\source\\repos\\KRM-Events-API\\KRM-Events-API\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\KRM-Events-API\\KRM-Events-API\\Program.cs",
@@ -718,7 +754,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "20250114140141_keyforUserApplicationTable.cs",
               "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Migrations\\20250114140141_keyforUserApplicationTable.cs",
               "RelativeDocumentMoniker": "AppVersionControlApi\\Migrations\\20250114140141_keyforUserApplicationTable.cs",
@@ -729,7 +765,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "ITokenService.cs",
               "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Interfaces\\ITokenService.cs",
               "RelativeDocumentMoniker": "AppVersionControlApi\\Interfaces\\ITokenService.cs",
@@ -741,7 +777,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "IVersionService.cs",
               "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\Nacir\\c#\\AppVersionControlApi\\AppVersionControlApi\\Interfaces\\IVersionService.cs",
               "RelativeDocumentMoniker": "AppVersionControlApi\\Interfaces\\IVersionService.cs",

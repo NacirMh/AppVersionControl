@@ -46,7 +46,7 @@ namespace AppVersionControlApi.Controllers
                 {
                     appUser = registerDTO.ToUserFromRegisterDTO();
                 }
-                
+
                 if (appUser != null)
                 {
                     var result = await _userManager.CreateAsync(appUser, registerDTO.Password);
@@ -67,7 +67,7 @@ namespace AppVersionControlApi.Controllers
                 {
                     roleResult = await _userManager.AddToRoleAsync(appUser, "USER");
                 }
-                
+
 
                 if (roleResult.Succeeded)
                 {
@@ -158,6 +158,37 @@ namespace AppVersionControlApi.Controllers
             }
             var userDetails = user.ToUserDetailsFromUser();
             return Ok(userDetails);
+        }
+
+        [HttpPut("ChangePassword")]
+        [Authorize]
+        public async Task<IActionResult> ChangePassword(ChangePasswordDTO dto)
+        {
+            var user = await _userManager.GetUserAsync(User);
+            var result = await _userManager.ChangePasswordAsync(user, dto.CurrentPassword, dto.NewPassword);
+            if (result.Succeeded)
+            {
+                return Ok("password changed successfully");
+            }
+            return BadRequest(result.Errors);
+        }
+
+        [HttpPut("ResetPassword")]
+        [Authorize (Roles ="admin")]
+        public async Task<IActionResult> ChangePassword([FromBody] ResetPasswordDTO dto)
+        {
+            var user = await _userManager.FindByIdAsync(dto.UserId);
+            if(user == null)
+            {
+                return NotFound("user not found");
+            }
+            var token = await _userManager.GeneratePasswordResetTokenAsync(user);
+            var result = await _userManager.ResetPasswordAsync(user, token, dto.NewPassword);
+            if (result.Succeeded)
+            {
+                return Ok("password changed successfully");
+            }
+            return BadRequest(result.Errors);
         }
 
         [HttpPut("UpdateProfile")]

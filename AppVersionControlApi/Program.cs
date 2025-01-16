@@ -39,7 +39,10 @@ builder.Services.AddIdentity<AppUser, IdentityRole>(options =>
     options.Password.RequireUppercase = true;
     options.Password.RequiredLength = 8;
 }
-).AddEntityFrameworkStores<AppDbContext>();
+)
+.AddEntityFrameworkStores<AppDbContext>()
+.AddDefaultTokenProviders();
+
 
 builder.Services.AddSwaggerGen(option =>
 {
