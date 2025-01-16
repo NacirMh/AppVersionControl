@@ -7,16 +7,15 @@ namespace AppVersionControlApi.Dtos.Version
     {
         public int Id { get; set; }
 
-        [Required]
         public string VersionNumber { get; set; } = string.Empty;
 
-        [Required]
         public string Description { get; set; } = string.Empty;
 
-        [Required]
+        public DateTime UpdateDate { get; set; }
+
+       
         public Severity Severity { get; set; }
 
-        [Required]
         public int ApplicationId { get; set; }
          
 

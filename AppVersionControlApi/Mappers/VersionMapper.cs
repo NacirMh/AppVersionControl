@@ -35,6 +35,7 @@ namespace AppVersionControlApi.Mappers
                 Description = version.Description,
                 ApplicationId = version.ApplicationId,
                 Severity = version.Severity,
+                UpdateDate = version.UpdateDate,
                 VersionNumber = version.VersionNumber,
             };
 
