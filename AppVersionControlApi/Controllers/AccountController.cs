@@ -185,6 +185,42 @@ namespace AppVersionControlApi.Controllers
             return Ok(userDetails);
         }
 
+        [HttpPut("UpdateProfile/{Id}")]
+        [Authorize(Roles = "admin")]
+        public async Task<IActionResult> UpdateDetailsById([FromBody] UpdateProfileDTO updateDto,string Id)
+        {
+            var user = await _userManager.FindByIdAsync(Id);
+
+            if (user is null)
+            {
+                return NotFound(new AuthResponseDTO
+                {
+                    isSuccess = false,
+                    Message = "user not found"
+                });
+            }
+            user.City = updateDto.City;
+            user.UserName = updateDto.UserName;
+            user.FirstName = updateDto.FirstName;
+            user.LastName = updateDto.LastName;
+            user.PhoneNumber = updateDto.PhoneNumber;
+            user.Email = updateDto.EmailAddress;
+            await _userManager.UpdateAsync(user);
+            var userDetails = user.ToUserDetailsFromUser();
+            return Ok(userDetails);
+        }
+
+        [HttpDelete("{id}")]
+        [Authorize(Roles = "admin")]
+        public async Task<IActionResult> DeleteByIdAsync(string id) {
+            var user = await _userManager.FindByIdAsync(id);
+            if(user is null)
+            {
+                return NotFound("user not found");
+            }
+            await _userManager.DeleteAsync(user);
+            return NoContent();
+        }
         [HttpGet("AllUsers")]
         [Authorize]
         public async Task<IActionResult> GetAllUsers([FromQuery] string? Role)
